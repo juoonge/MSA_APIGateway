@@ -4,6 +4,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../com.spring-cloud.eureka.client.first" />
     <file type="web" url="file://$PROJECT_DIR$/../com.spring-cloud.eureka.client.second" />
+    <file type="web" url="file://$PROJECT_DIR$/../com.spring.cloud.eureka.client.order" />
+    <file type="web" url="file://$PROJECT_DIR$/../com.spring.cloud.eureka.client.product" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
