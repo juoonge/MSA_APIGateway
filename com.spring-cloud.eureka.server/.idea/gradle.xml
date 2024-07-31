@@ -30,6 +30,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../com.spring-cloud.eureka.client.gateway" />
+        <option name="gradleJvm" value="openjdk-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../com.spring-cloud.eureka.client.gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
