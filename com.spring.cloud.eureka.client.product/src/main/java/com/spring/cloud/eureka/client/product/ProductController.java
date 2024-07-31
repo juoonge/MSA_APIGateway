@@ -10,8 +10,8 @@ public class ProductController {
     @Value("${server.port}") // properties, yml의 값 가져옴
     private String serverPort;
 
-    @GetMapping("/product/{id}")
-    public String getProduct(@PathVariable("id") String id){
-        return "Product "+id+" info!!! from port: "+serverPort;
+    @GetMapping("/product")
+    public String getProduct(){
+        return "Product info!!! from port: "+serverPort;
     }
 }
